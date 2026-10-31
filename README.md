@@ -2,6 +2,11 @@
 
 **Built by Victor Rajkumar** · [victorrajkumar1@gmail.com](mailto:victorrajkumar1@gmail.com) · [+91 95662 62277](tel:+919566262277) · [LinkedIn](https://www.linkedin.com/in/vctc92/)
 
+<img width="3024" height="8192" alt="image" src="https://github.com/user-attachments/assets/3411bbe9-2cf8-4342-91d4-30eb9b565e70" />
+<img width="3024" height="1742" alt="image" src="https://github.com/user-attachments/assets/8f6e65da-1cee-4117-ae67-292f0fc49208" />
+<img width="3024" height="1914" alt="image" src="https://github.com/user-attachments/assets/02e48aba-89f9-4293-a486-bbf0823f6e97" />
+<img width="3024" height="1849" alt="image" src="https://github.com/user-attachments/assets/5294c70e-96c5-43ae-8ab2-925de246592e" />
+
 An enterprise AI website and secure collaboration portal built for the azentio.ai hackathon. It showcases the offerings, gives employees and clients separate experiences, and turns client market observations into **governed collective learning** that improves the products, without exposing any client's private data.
 
 > **Everything is synthetic.** Identity, email delivery, media streams and the federated model are simulated and labelled as such. The access rules, lifecycle, retrieval-index purge and cohort rules are real logic that run on every API call (see [What is real and what is simulated](#what-is-real-and-what-is-simulated)).
