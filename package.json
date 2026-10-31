@@ -1,0 +1,19 @@
+{
+  "name": "azentio-ai-portal",
+  "version": "1.0.0",
+  "description": "azentio.ai: enterprise website and intelligent collaboration portal with governed collective learning (hackathon build).",
+  "private": true,
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node tests/logic.test.js",
+    "test:e2e": "npm run build && node tests/e2e.mjs && node tests/motion.mjs",
+    "test:contrast": "npm run build && node tests/contrast.mjs",
+    "test:all": "npm test && npm run test:e2e && node tests/contrast.mjs",
+    "serve": "npm run build && npx --yes serve dist"
+  },
+  "devDependencies": {
+    "playwright": "^1.50.0"
+  }
+}
