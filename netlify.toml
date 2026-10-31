@@ -1,0 +1,8 @@
+[build]
+  command = "node scripts/build.mjs"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+  # Playwright is only used by the local test suite; the site build doesn't need browsers.
+  PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD = "1"
